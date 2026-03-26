@@ -12,8 +12,7 @@ const ecosystem = [
   },
   {
     title: "Accent Facility Management Services",
-    desc: "Accent Facility Management Services is our dedicated facility management arm servicing clients from the last 20 year, today with a
-turnover of ₹5 crore",
+    desc: "Our dedicated facility management arm servicing clients from the last 20 year today, with a turnover of ₹5 crore",
   },
   {
     title: "Hospitality",

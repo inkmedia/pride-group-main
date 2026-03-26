@@ -7,20 +7,21 @@ import { useEffect, useRef, useState } from "react";
 
 const ecosystem = [
   {
-    title: "Company Vertical #1",
-    desc: "Lorem ipsum dolor sit amet, elit, sed doeiusmod tempor incididunt ut labore etdolore magna aliqua.",
+    title: "Abhyan Merchant Pvt Ltd",
+    desc: "Abhiyan Merchant Pvt Ltd, an RBI-registered NBFC, that provides capital for real estate projects across Pune and Mumbai",
   },
   {
-    title: "Company Vertical #2",
-    desc: "Lorem ipsum dolor sit amet, elit, sed doeiusmod tempor incididunt ut labore etdolore magna aliqua.",
+    title: "Accent Facility Management Services",
+    desc: "Accent Facility Management Services is our dedicated facility management arm servicing clients from the last 20 year, today with a
+turnover of ₹5 crore",
   },
   {
-    title: "Company Vertical #3",
-    desc: "Lorem ipsum dolor sit amet, elit, sed doeiusmod tempor incididunt ut labore etdolore magna aliqua.",
+    title: "Hospitality",
+    desc: "Group has a string portfolio of commercial leasin and now Group is planning to expand in super luxury hotels",
   },
   {
-    title: "Company Vertical #4",
-    desc: "Lorem ipsum dolor sit amet, elit, sed doeiusmod tempor incididunt ut labore etdolore magna aliqua.",
+    title: "Commercial Leasing",
+    desc: "Group has a string portfolio of commercial leasin and now Group is planning to expand in super luxury hotels",
   },
 ];
 

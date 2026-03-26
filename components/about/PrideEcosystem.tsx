@@ -11,7 +11,7 @@ const ecosystem = [
     desc: "Abhiyan Merchant Pvt Ltd, an RBI-registered NBFC, that provides capital for real estate projects across Pune and Mumbai",
   },
   {
-    title: "Accent Facility Management Services",
+    title: "Accent Facility Management",
     desc: "Our dedicated facility management arm servicing clients from the last 20 year today, with a turnover of ₹5 crore",
   },
   {
